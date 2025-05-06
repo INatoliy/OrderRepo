@@ -1,0 +1,11 @@
+C:\MyPetProject2\Marketplace\OrderService\tests\Order.Tests\bin\Debug\net9.0\Order.Tests.deps.json
+C:\MyPetProject2\Marketplace\OrderService\tests\Order.Tests\bin\Debug\net9.0\Order.Tests.dll
+C:\MyPetProject2\Marketplace\OrderService\tests\Order.Tests\bin\Debug\net9.0\Order.Tests.pdb
+C:\MyPetProject2\Marketplace\OrderService\tests\Order.Tests\obj\Debug\net9.0\Order.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyPetProject2\Marketplace\OrderService\tests\Order.Tests\obj\Debug\net9.0\Order.Tests.AssemblyInfoInputs.cache
+C:\MyPetProject2\Marketplace\OrderService\tests\Order.Tests\obj\Debug\net9.0\Order.Tests.AssemblyInfo.cs
+C:\MyPetProject2\Marketplace\OrderService\tests\Order.Tests\obj\Debug\net9.0\Order.Tests.csproj.CoreCompileInputs.cache
+C:\MyPetProject2\Marketplace\OrderService\tests\Order.Tests\obj\Debug\net9.0\Order.Tests.dll
+C:\MyPetProject2\Marketplace\OrderService\tests\Order.Tests\obj\Debug\net9.0\refint\Order.Tests.dll
+C:\MyPetProject2\Marketplace\OrderService\tests\Order.Tests\obj\Debug\net9.0\Order.Tests.pdb
+C:\MyPetProject2\Marketplace\OrderService\tests\Order.Tests\obj\Debug\net9.0\ref\Order.Tests.dll

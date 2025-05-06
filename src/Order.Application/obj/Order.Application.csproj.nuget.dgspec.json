@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\MyPetProject2\\Marketplace\\OrderService\\src\\Order.Application\\Order.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\MyPetProject2\\Marketplace\\OrderService\\src\\Order.Application\\Order.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyPetProject2\\Marketplace\\OrderService\\src\\Order.Application\\Order.Application.csproj",
+        "projectName": "Order.Application",
+        "projectPath": "C:\\MyPetProject2\\Marketplace\\OrderService\\src\\Order.Application\\Order.Application.csproj",
+        "packagesPath": "C:\\Users\\Anatoliy\\.nuget\\packages\\",
+        "outputPath": "C:\\MyPetProject2\\Marketplace\\OrderService\\src\\Order.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anatoliy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\MyPetProject2\\Marketplace\\OrderService\\src\\Order.Domain\\Order.Domain.csproj": {
+                "projectPath": "C:\\MyPetProject2\\Marketplace\\OrderService\\src\\Order.Domain\\Order.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MyPetProject2\\Marketplace\\OrderService\\src\\Order.Domain\\Order.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyPetProject2\\Marketplace\\OrderService\\src\\Order.Domain\\Order.Domain.csproj",
+        "projectName": "Order.Domain",
+        "projectPath": "C:\\MyPetProject2\\Marketplace\\OrderService\\src\\Order.Domain\\Order.Domain.csproj",
+        "packagesPath": "C:\\Users\\Anatoliy\\.nuget\\packages\\",
+        "outputPath": "C:\\MyPetProject2\\Marketplace\\OrderService\\src\\Order.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anatoliy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

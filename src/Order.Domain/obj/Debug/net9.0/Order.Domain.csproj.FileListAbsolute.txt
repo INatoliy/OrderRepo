@@ -1,0 +1,11 @@
+C:\MyPetProject2\Marketplace\OrderService\src\Order.Domain\bin\Debug\net9.0\Order.Domain.deps.json
+C:\MyPetProject2\Marketplace\OrderService\src\Order.Domain\bin\Debug\net9.0\Order.Domain.dll
+C:\MyPetProject2\Marketplace\OrderService\src\Order.Domain\bin\Debug\net9.0\Order.Domain.pdb
+C:\MyPetProject2\Marketplace\OrderService\src\Order.Domain\obj\Debug\net9.0\Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyPetProject2\Marketplace\OrderService\src\Order.Domain\obj\Debug\net9.0\Order.Domain.AssemblyInfoInputs.cache
+C:\MyPetProject2\Marketplace\OrderService\src\Order.Domain\obj\Debug\net9.0\Order.Domain.AssemblyInfo.cs
+C:\MyPetProject2\Marketplace\OrderService\src\Order.Domain\obj\Debug\net9.0\Order.Domain.csproj.CoreCompileInputs.cache
+C:\MyPetProject2\Marketplace\OrderService\src\Order.Domain\obj\Debug\net9.0\Order.Domain.dll
+C:\MyPetProject2\Marketplace\OrderService\src\Order.Domain\obj\Debug\net9.0\refint\Order.Domain.dll
+C:\MyPetProject2\Marketplace\OrderService\src\Order.Domain\obj\Debug\net9.0\Order.Domain.pdb
+C:\MyPetProject2\Marketplace\OrderService\src\Order.Domain\obj\Debug\net9.0\ref\Order.Domain.dll
