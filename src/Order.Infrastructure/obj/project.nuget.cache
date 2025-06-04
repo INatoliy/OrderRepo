@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fuUUZpLuGEo=",
+  "dgSpecHash": "x3QK6zelQMQ=",
   "success": true,
   "projectFilePath": "C:\\MyPetProject2\\Marketplace\\OrderService\\src\\Order.Infrastructure\\Order.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Anatoliy\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.15\\microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\Anatoliy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.15\\microsoft.windowsdesktop.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\Anatoliy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.15\\microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,25 +1,34 @@
 ﻿using Serilog;
 
-namespace Order.API
+namespace Order.API;
+
+internal class Program
 {
-    class Program
+    private static void Main(string[] args)
     {
-        static void Main(string[] args)
+        try
         {
-
+            CreateHostBuilder(args).Run();
         }
-
-        public static IHost CreateHostBuilder(string[] args)
+        catch (Exception ex)
         {
-            return Host.CreateDefaultBuilder(args)
-                .UseSerilog((context, services, config) =>
-                {
-                    config
-                        .ReadFrom.Configuration(context.Configuration)
-                        .ReadFrom.Services(services);
-                })
-                .ConfigureWebHostDefaults(webBuilder => { webBuilder.UseStartup<Startup>(); })
-                .Build();
+            Log.Fatal(ex, "Экстренное завершение работы хоста");
         }
+        finally
+        {
+            Log.CloseAndFlush();
+        }
+    }
+    public static IHost CreateHostBuilder(string[] args)
+    {
+        return Host.CreateDefaultBuilder(args)
+            .UseSerilog((context, services, config) =>
+            {
+                config
+                    .ReadFrom.Configuration(context.Configuration)
+                    .ReadFrom.Services(services);
+            })
+            .ConfigureWebHostDefaults(webBuilder => { webBuilder.UseStartup<Startup>(); })
+            .Build();
     }
 }

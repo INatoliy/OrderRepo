@@ -15,11 +15,11 @@ public class Startup
     {
         services.AddControllers();
         services.AddSwaggerGen(service =>
-            service.SwaggerDoc("V1", new OpenApiInfo
+            service.SwaggerDoc("v1", new OpenApiInfo
             {
                 Version = "v1",
                 Title = "Order API",
-                Description = "API для управления заказами",
+                Description = "API для управления заказами"
             }));
     }
 
@@ -29,12 +29,12 @@ public class Startup
             app.UseDeveloperExceptionPage();
         else
             app.UseExceptionHandler("/error");
-        
+
         app.UseStatusCodePages();
         app.UseSwagger();
         app.UseSwaggerUI(options =>
         {
-            options.SwaggerEndpoint("/swagger/v1/swagger.json", "My VarketplaceAPI V1");
+            options.SwaggerEndpoint("/swagger/v1/swagger.json", "My MarketplaceAPI V1");
             options.RoutePrefix = string.Empty;
         });
         app.UseRouting();
