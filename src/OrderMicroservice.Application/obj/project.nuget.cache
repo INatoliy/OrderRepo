@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mqH7jpI9XvEMWhUmenzQwBE1UfewWERKJb/d/bCZFjVciH9oaz434fkfzyabdwharrjbLUOxAXDJDMotETz/Eg==",
+  "success": true,
+  "projectFilePath": "C:\\MyPetProject2\\Marketplace\\OrderMicroservice\\src\\OrderMicroservice.Application\\OrderMicroservice.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anatoliy\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.5\\microsoft.extensions.dependencyinjection.9.0.5.nupkg.sha512",
+    "C:\\Users\\Anatoliy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.5\\microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
