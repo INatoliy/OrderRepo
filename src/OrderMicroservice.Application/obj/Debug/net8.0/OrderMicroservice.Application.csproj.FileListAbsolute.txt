@@ -1,0 +1,16 @@
+C:\MyPetProject2\Marketplace\OrderMicroservice\src\OrderMicroservice.Application\bin\Debug\net8.0\OrderMicroservice.Application.deps.json
+C:\MyPetProject2\Marketplace\OrderMicroservice\src\OrderMicroservice.Application\bin\Debug\net8.0\OrderMicroservice.Application.dll
+C:\MyPetProject2\Marketplace\OrderMicroservice\src\OrderMicroservice.Application\bin\Debug\net8.0\OrderMicroservice.Application.pdb
+C:\MyPetProject2\Marketplace\OrderMicroservice\src\OrderMicroservice.Application\bin\Debug\net8.0\OrderMicroservice.Domain.dll
+C:\MyPetProject2\Marketplace\OrderMicroservice\src\OrderMicroservice.Application\bin\Debug\net8.0\OrderMicroservice.Domain.pdb
+C:\MyPetProject2\Marketplace\OrderMicroservice\src\OrderMicroservice.Application\obj\Debug\net8.0\OrderMicroservice.Application.csproj.AssemblyReference.cache
+C:\MyPetProject2\Marketplace\OrderMicroservice\src\OrderMicroservice.Application\obj\Debug\net8.0\OrderMicroservice.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyPetProject2\Marketplace\OrderMicroservice\src\OrderMicroservice.Application\obj\Debug\net8.0\OrderMicroservice.Application.AssemblyInfoInputs.cache
+C:\MyPetProject2\Marketplace\OrderMicroservice\src\OrderMicroservice.Application\obj\Debug\net8.0\OrderMicroservice.Application.AssemblyInfo.cs
+C:\MyPetProject2\Marketplace\OrderMicroservice\src\OrderMicroservice.Application\obj\Debug\net8.0\OrderMicroservice.Application.csproj.CoreCompileInputs.cache
+C:\MyPetProject2\Marketplace\OrderMicroservice\src\OrderMicroservice.Application\obj\Debug\net8.0\OrderMicroservice.Application.sourcelink.json
+C:\MyPetProject2\Marketplace\OrderMicroservice\src\OrderMicroservice.Application\obj\Debug\net8.0\OrderMic.2C979FFE.Up2Date
+C:\MyPetProject2\Marketplace\OrderMicroservice\src\OrderMicroservice.Application\obj\Debug\net8.0\OrderMicroservice.Application.dll
+C:\MyPetProject2\Marketplace\OrderMicroservice\src\OrderMicroservice.Application\obj\Debug\net8.0\refint\OrderMicroservice.Application.dll
+C:\MyPetProject2\Marketplace\OrderMicroservice\src\OrderMicroservice.Application\obj\Debug\net8.0\OrderMicroservice.Application.pdb
+C:\MyPetProject2\Marketplace\OrderMicroservice\src\OrderMicroservice.Application\obj\Debug\net8.0\ref\OrderMicroservice.Application.dll

@@ -2,12 +2,12 @@ services:
   order.api:
     build:
       context: .
-      dockerfile: src/Order.API/Dockerfile
+      dockerfile: src/OrderMicroservice.API/Dockerfile
     container_name: order-host
     ports:
-      - "5000:8080"
+      - "5000:5050"
     volumes:
-      - logs:/app/logs:rw
+      - ./logs:/app/logs
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
       - SERILOG__MINIMUMLEVEL=Information
